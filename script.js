@@ -1,0 +1,1 @@
+console.log("Dika Alif Website Ready");
